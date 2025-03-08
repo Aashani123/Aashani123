@@ -4,7 +4,7 @@
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aashani123&label=Profile%20views&color=0e75b6&style=flat" alt="aashani123" /> </p>
 
-- 🌱 I’m currently learning **Java, Vue JS, Node Js**
+- 🌱 I’m currently learning **React JS, Java, Vue JS, Node Js**
 
 - 📝 I regularly write articles on [https://medium.com/@ranasingharaat.20](https://medium.com/@ranasingharaat.20)
 
